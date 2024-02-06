@@ -42,6 +42,14 @@ const Landing = () => {
               budgets, and gain financial control with ease. Try it today for a
               smarter, stress-free financial future.
             </p>
+              <iframe
+        src="https://paucs.store/"
+        width="600"
+        height="450"
+        style={{ border: 0 }}
+        allowFullScreen=""
+        loading="lazy"
+      ></iframe>
         </div>
       </div>
     </main>
