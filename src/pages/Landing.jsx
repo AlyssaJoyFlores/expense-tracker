@@ -43,7 +43,7 @@ const Landing = () => {
               smarter, stress-free financial future.
             </p>
               <iframe
-        src="https://paucs.store/"
+        src="https://www.simsv1.com/"
         width="600"
         height="450"
         style={{ border: 0 }}
