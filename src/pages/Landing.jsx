@@ -43,7 +43,7 @@ const Landing = () => {
               smarter, stress-free financial future.
             </p>
               <iframe
-        src="https://clairemontferrond.com/clairemontferrond.com/"
+        src="https://paucs.store/"
         width="600"
         height="450"
         style={{ border: 0 }}
